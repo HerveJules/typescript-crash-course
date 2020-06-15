@@ -1,6 +1,7 @@
+"use strict";
 var input;
 input = 5;
-input = 'hello';
+input = 'hello world!';
 // input = true;
 var userName;
 if (typeof (input) === 'string') {

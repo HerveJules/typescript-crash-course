@@ -38,3 +38,14 @@ it require to double check which current variable type before taking action
 
 # Never Type
 
+# Watch Node
+
+helps to auto recompile you ts codes
+
+# include and exclude files
+
+you can configure tsc in your tsconfig.json which files to include in compilation or exclude in your compilation
+
+# setting a compilation target  
+ 
+ allow you to set the target version of javascript in the compiler options, so that tsc will generate equivalent version
